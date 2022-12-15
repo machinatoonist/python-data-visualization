@@ -6,7 +6,7 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 
 app.layout = html.Div(
     [
-        html.H1("Simple HTML Only Site"),
+        html.H1("Simple HTML Only Site - updated"),
         html.H2("TalkPython Training"),
         html.Div(
             [
